@@ -128,4 +128,4 @@
 // }
 // console.log(myFunction('function'))
 // console.log(myFunction('func'))
-// console.log(myFunction(''))
+// console.log(myFunction(' '))
